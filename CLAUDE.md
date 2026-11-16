@@ -51,6 +51,10 @@ Badges de statut : `badge-progress` (En cours), `badge-soon` (À venir), `badge-
 2. ✅ En ligne sur GitHub Pages, avec Web3Forms configuré (16 nov. 2026). ⏳ Reste : ajouter le lien LinkedIn (`CONFIG.linkedin`).
 3. ✅ (16 nov. 2026, fichier `~/Downloads/CV_Vlad_Ciolache-corrige.docx`) Corriger le CV : retirer « PROTÉGÉ A / PROTECTED A », ajouter une section Projets et les liens GitHub,
    LinkedIn et portfolio, corriger les accents (COMPÉTENCES, EXPÉRIENCE), « matériel défectueux », et la mention du DEC
+3b. ✅ (16 nov. 2026) **Répertoire de recettes** : ancien travail de 2023 refait en projet perso (ne jamais le présenter comme un travail d'école).
+   Dossier `~/Documents/recettes`, dépôt `vladciolache/recettes`, démo https://vladciolache.github.io/recettes/.
+   Plusieurs recettes (localStorage), ingrédients dynamiques, modifier/supprimer, recherche sans accents, correction XSS (`textContent`).
+   Le dépôt `Intra` (C# WinForms, .NET Framework) ne compile pas et ne roule pas sur Mac : conseil de le mettre en privé.
 4. 🔜 **Projet vedette : système de gestion d'actifs TI** (C# / ASP.NET + SQL Server) : inventaire,
    demandes d'arrivée, de départ et de remplacement, suivi des billets, historique. Dans son propre dépôt.
 5. 🔜 **Homelab de sécurité réseau** documenté (pfSense, DMZ, Active Directory, VMs, surveillance), avec schémas.

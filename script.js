@@ -8,7 +8,7 @@ const CONFIG = {
 
   // Lien complet de ton profil LinkedIn, ex. "https://www.linkedin.com/in/ton-profil"
   // Laisse vide pour cacher l'icône.
-  linkedin: "https://www.linkedin.com/in/vlad-ciolache",
+  linkedin: "https://www.linkedin.com/in/vlad-ciolache-5a17951a8",
 };
 
 /* =========================================================
