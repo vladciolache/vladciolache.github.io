@@ -40,7 +40,7 @@ const EN = {
     "What I enjoy: solving problems, understanding how systems work, and building tools that make other people's work easier.",
   "about.f1": "Gatineau / Ottawa",
   "about.f2": "Expected graduation: 2027",
-  "about.f3": "Bilingual — French & English",
+  "about.f3": "Trilingual — French, English & Romanian",
   "about.f4": "Interests: programming & cybersecurity",
 
   "skills.title": "Skills",
@@ -82,7 +82,7 @@ const EN = {
   "edu.e1.title": "Computer Programming",
   "edu.e2.title": "Programming and Security",
   "edu.e3.title": "High school",
-  "edu.e3.org": "Collège Nouvelles Frontières (private high school) · Gatineau",
+  "edu.e3.org": "Collège Nouvelles Frontières · Gatineau",
 
   "contact.title": "Get in touch",
   "contact.intro":
