@@ -20,6 +20,7 @@ const EN = {
   "nav.skills": "Skills",
   "nav.projects": "Projects",
   "nav.experience": "Experience",
+  "nav.education": "Education",
   "nav.contact": "Contact",
 
   "hero.kicker": "Hi, my name is",
@@ -40,7 +41,7 @@ const EN = {
   "about.f1": "Gatineau / Ottawa",
   "about.f2": "Expected graduation: 2027",
   "about.f3": "Bilingual — French & English",
-  "about.f4": "Interest: cybersecurity",
+  "about.f4": "Interests: programming & cybersecurity",
 
   "skills.title": "Skills",
   "skills.prog": "Programming",
@@ -64,7 +65,7 @@ const EN = {
   "projects.p3.desc":
     "Bilingual site with no framework: light/dark theme, contact form, and GitHub Pages hosting.",
 
-  "exp.title": "Experience & education",
+  "exp.title": "Experience",
   "exp.j1.date": "2026 — present",
   "exp.j1.title": "IT Asset Management Technician",
   "exp.j1.org": "Indigenous Services Canada · Government of Canada",
@@ -72,13 +73,16 @@ const EN = {
   "exp.j1.b2": "Process onboarding, offboarding, replacement and upgrade requests",
   "exp.j1.b3": "Track tickets in an IT service management system",
   "exp.j1.b4": "Bilingual communication with users and their managers",
-  "exp.e1.title": "Computer Programming",
-  "exp.e1.org": "Collège La Cité · Ottawa",
   "exp.j2.title": "Laboratory Technician",
   "exp.j2.b1": "Rigorous inventory and expiration date management",
   "exp.j2.b2": "Confidential handling of controlled medications",
-  "exp.e2.title": "Computer Science Technology (coursework)",
-  "exp.e2.org": "Cégep de l'Outaouais · Gatineau",
+
+  "edu.title": "Education",
+  "edu.e1.date": "2026 — 2027 (expected)",
+  "edu.e1.title": "Computer Programming",
+  "edu.e2.title": "Computer Science Technology (coursework)",
+  "edu.e3.title": "High school",
+  "edu.e3.org": "Nouvelle-Frontière private high school",
 
   "contact.title": "Get in touch",
   "contact.intro":
