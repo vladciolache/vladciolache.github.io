@@ -80,9 +80,9 @@ const EN = {
   "edu.title": "Education",
   "edu.e1.date": "2026 — 2027 (expected)",
   "edu.e1.title": "Computer Programming",
-  "edu.e2.title": "Computer Science Technology (coursework)",
+  "edu.e2.title": "Programming and Security",
   "edu.e3.title": "High school",
-  "edu.e3.org": "Nouvelle-Frontière private high school",
+  "edu.e3.org": "Collège Nouvelles Frontières (private high school) · Gatineau",
 
   "contact.title": "Get in touch",
   "contact.intro":
