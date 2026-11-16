@@ -48,7 +48,7 @@ Badges de statut : `badge-progress` (En cours), `badge-soon` (À venir), `badge-
 
 ## Feuille de route
 1. ✅ Site portfolio bilingue (structure, thème, formulaire)
-2. ⏳ Configurer Web3Forms + LinkedIn, puis mettre en ligne sur GitHub Pages
+2. ✅ En ligne sur GitHub Pages, avec Web3Forms configuré (16 nov. 2026). ⏳ Reste : ajouter le lien LinkedIn (`CONFIG.linkedin`).
 3. ⏳ Corriger le CV : retirer « PROTÉGÉ A / PROTECTED A », ajouter une section Projets et les liens GitHub,
    LinkedIn et portfolio, corriger les accents (COMPÉTENCES, EXPÉRIENCE), « matériel défectueux », et la mention du DEC
 4. 🔜 **Projet vedette : système de gestion d'actifs TI** (C# / ASP.NET + SQL Server) : inventaire,
