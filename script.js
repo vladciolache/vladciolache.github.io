@@ -28,6 +28,7 @@ const EN = {
     "I build applications in C#, Python and SQL, and I'm interested in system and network security. I'm currently gaining IT experience within the Canadian federal public service.",
   "hero.cta1": "See my projects",
   "hero.cta2": "Contact me",
+  "hero.cv": "My resume (PDF)",
 
   "about.title": "About me",
   "about.p1":

@@ -49,7 +49,7 @@ Badges de statut : `badge-progress` (En cours), `badge-soon` (À venir), `badge-
 ## Feuille de route
 1. ✅ Site portfolio bilingue (structure, thème, formulaire)
 2. ✅ En ligne sur GitHub Pages, avec Web3Forms configuré (16 nov. 2026). ⏳ Reste : ajouter le lien LinkedIn (`CONFIG.linkedin`).
-3. ⏳ Corriger le CV : retirer « PROTÉGÉ A / PROTECTED A », ajouter une section Projets et les liens GitHub,
+3. ✅ (16 nov. 2026, fichier `~/Downloads/CV_Vlad_Ciolache-corrige.docx`) Corriger le CV : retirer « PROTÉGÉ A / PROTECTED A », ajouter une section Projets et les liens GitHub,
    LinkedIn et portfolio, corriger les accents (COMPÉTENCES, EXPÉRIENCE), « matériel défectueux », et la mention du DEC
 4. 🔜 **Projet vedette : système de gestion d'actifs TI** (C# / ASP.NET + SQL Server) : inventaire,
    demandes d'arrivée, de départ et de remplacement, suivi des billets, historique. Dans son propre dépôt.
