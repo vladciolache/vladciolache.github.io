@@ -243,6 +243,9 @@ p { margin: 0 0 1rem; }
 .timeline ul { margin: 0; padding-left: 18px; color: var(--muted); font-size: 0.93rem; }
 .timeline ul li { margin-bottom: 4px; }
 
+/* Expérience + Formation côte à côte */
+.two-col { display: grid; grid-template-columns: 1.4fr 1fr; gap: 56px; align-items: start; }
+
 /* Contact */
 .contact { max-width: 720px; }
 .contact-intro { color: var(--muted); margin-bottom: 28px; }
@@ -300,7 +303,9 @@ p { margin: 0 0 1rem; }
   .nav-links a { padding: 14px 20px; border-top: 1px solid var(--border); }
 
   .about-grid,
-  .form-row { grid-template-columns: 1fr; }
+  .form-row,
+  .two-col { grid-template-columns: 1fr; }
+  .two-col { gap: 64px; }
   .about-grid { gap: 28px; }
   .section { padding: 70px 0; }
   .hero { min-height: auto; padding: 70px 0; }

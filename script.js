@@ -133,6 +133,10 @@ function setLang(next) {
   const btn = document.getElementById("lang-toggle");
   btn.textContent = next === "en" ? "FR" : "EN";
   btn.setAttribute("aria-label", next === "en" ? "Passer en français" : "Switch to English");
+  document.getElementById("theme-toggle").setAttribute("aria-label", next === "en" ? "Toggle theme" : "Changer le thème");
+  document.querySelectorAll(".project-link").forEach((a) =>
+    a.setAttribute("aria-label", next === "en" ? "Source code" : "Code source")
+  );
   try { localStorage.setItem("lang", next); } catch (e) {}
 }
 
