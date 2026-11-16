@@ -55,6 +55,11 @@ const EN = {
   "projects.inprogress": "In progress",
   "projects.soon": "Coming soon",
   "projects.done": "Done",
+  "projects.demo": "Live demo →",
+  "projects.code": "Source code →",
+  "projects.p4.title": "Recipe Directory",
+  "projects.p4.desc":
+    "Web app to add, edit, search and delete recipes, with dynamic ingredients, local storage and protection against XSS attacks.",
   "projects.p1.title": "IT Asset Management System",
   "projects.p1.desc":
     "Web application to manage IT hardware inventory and employee requests (onboarding, offboarding, replacements), with ticket tracking and history.",
